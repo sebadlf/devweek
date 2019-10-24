@@ -321,7 +321,9 @@ img {
     width: 150px;
     height: auto;
     padding: 0;
-    margin-top: 5px;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
 }
 .logo-black {
     display: none;
