@@ -900,7 +900,6 @@ img {
 }
 .schedule-table tbody tr td {
     padding: 12px;
-    text-transform: capitalize;
 }
 .table-row-bg {
     background: #f2f2f2;
