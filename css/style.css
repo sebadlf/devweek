@@ -904,7 +904,9 @@ img {
 .table-row-bg {
     background: #f2f2f2;
 }
-
+.schedule-cta {
+    text-align: center;
+}
 
 /*--------------------------------
     10. Venue CSS Start
